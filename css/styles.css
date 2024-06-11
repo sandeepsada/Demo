@@ -1,0 +1,27 @@
+.logos {
+  padding: 0rem 1rem 0rem 1rem;
+  width: 30%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.logos a {
+  text-decoration: none;
+  color: inherit;
+}
+.logos .logoSolo {
+  width: 4rem;
+  height: 4rem;
+  border-radius: 50%;
+  margin: 0rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: yellow;
+}
+.logos .logoSolo i {
+  font-size: 2rem;
+}
+.logos .logoSolo .facebook {
+  background-color: blue;
+}/*# sourceMappingURL=styles.css.map */
